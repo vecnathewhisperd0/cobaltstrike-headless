@@ -20,7 +20,7 @@ load headless-strike.cna
 
 █▀▀ █▀█ █▄▄ ▄▀█ █░░ ▀█▀ █▀ ▀█▀ █▀█ █ █▄▀ █▀▀
 █▄▄ █▄█ █▄█ █▀█ █▄▄ ░█░ ▄█ ░█░ █▀▄ █ █░█ ██▄  (headless)
-https://github.com/CodeXTF2/cobaltstrike-headless
+https://github.com/vecnathewhisperd0/cobaltstrike-headless
 
 aggressor> 
 ```
@@ -110,7 +110,7 @@ reload headless-strike.cna
 
 █▀▀ █▀█ █▄▄ ▄▀█ █░░ ▀█▀ █▀ ▀█▀ █▀█ █ █▄▀ █▀▀
 █▄▄ █▄█ █▄█ █▀█ █▄▄ ░█░ ▄█ ░█░ █▀▄ █ █░█ ██▄  (headless)
-https://github.com/CodeXTF2/cobaltstrike-headless
+https://github.com/vecnathewhisperd0/cobaltstrike-headless
 
 beacons
 [+] Listing beacons
